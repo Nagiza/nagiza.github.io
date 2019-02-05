@@ -1,5 +1,7 @@
-## Begrundelse
-Grunden til at bruge 'specielle' ord, have strikse definationer for disse ord og kontrolleret brug af radio, er for at minimere forvirring og give TTDK et set værktøjer til at være effektive krigere.
+# TTDK Håndbog
+
+## Hvorfor en 'håndbog'
+Grunden til at bruge 'specielle' ord, have strikse definationer for disse ord og kontrolleret brug af radio, er for at minimere forvirring og give TTDK et sæt værktøjer til at være effektive krigere.
 
 ### Korrekt radiobrug
 Korte og prævise beskeder er vigtig
@@ -8,7 +10,10 @@ En radio samtaler starter med den er kalder op gør det klart hvem der skal lytt
 F.eks "Morten, her er Rudi"
 Herefter er samtalen igang og der behøves ikke mere identifikation.
 Hver besked slutter med "skifter" indtil samtalen ender med "slut"
-F.eks: "Friis, her er Rudi, fjenderne rykker højre om os, vi har brug for forstærkninger, skifter"
+F.eks: 
+
+"Friis, her er Rudi, fjenderne rykker højre om os, vi har brug for forstærkninger, skifter"
+
 "Modtaget, vi kommer til jer, slut"
 
 Sande radio meddelser skal slutte med "Slut"
@@ -31,17 +36,21 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
 
 ### Forkortelser:
 - 4 b'er
-* baggrund
-* bevægelse
-* bevoksning
-* belysning
--
+    * baggrund
+    * bevægelse
+    * bevoksning
+    * belysning
+
 - VAMUK
 F.eks.
 Våben: Riffel: Scar-L, Pistol: FN 5-7
+
 Ammo: 4 fyldte magasiner, 2 til pistol.
+
 Materiel: 1 røggranat.
+
 Udrustning: Briller, Maske, Radio.
+
 Klarmelding: "klar" til sig selv eller bm
 
 - kanævejfoski
@@ -63,6 +72,7 @@ Føling: akut indsigt hvor ild påkræves.
 Kontakt: er i ildkamp
 
 Sikre: hold øje med område og vær klar til at åbne ild.
+
 Dæk: forbliv stationær, sikre mod fjenden.
 
 Støt: forbliv stationær, skyde mod fjenden, også selvom der ikke er indsigt.
@@ -84,6 +94,7 @@ Standard planer/taktisk bevægelse.
 ### Andet
 Egne forkortelser:
 
+#### GAKK
 Inden første spil:
 - Gruppering/opdeling.
 - Ansvars følge.
