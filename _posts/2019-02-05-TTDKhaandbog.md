@@ -50,13 +50,14 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
     * Klarmelding:  "klar" til sig selv eller bm
 
 - kanævejfoski
-    * Kommando til ildens ophør, Avertissement,
-    * NÆste stilling,
-    * VEJ til næste stilling,
-    * FOrmation,
-    * Sikring og støtte,
-    * Klarmeldinger,
-    * Iværksættelse.
+    * Kommando til ildens ophør
+    * Avertissement
+    * NÆste stilling
+    * VEJ til næste stilling
+    * FOrmation
+    * Sikring og støtte
+    * Klarmeldinger
+    * Iværksættelse
 
 
 ### 4. Ordbog
