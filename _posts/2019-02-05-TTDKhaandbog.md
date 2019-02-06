@@ -42,20 +42,20 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
     * belysning
 
 - VAMUK
-    *Våben: Riffel: Scar-L, Pistol: FN 5-7
-    *Ammo: 4 fyldte magasiner, 2 til pistol.
-    *Materiel: 1 røggranat.
-    *Udrustning: Briller, Maske, Radio.
-    *Klarmelding: "klar" til sig selv eller bm
+    * Våben: Riffel: Scar-L, Pistol: FN 5-7
+    * Ammo: 4 fyldte magasiner, 2 til pistol.
+    * Materiel: 1 røggranat.
+    * Udrustning: Briller, Maske, Radio.
+    * Klarmelding: "klar" til sig selv eller bm
 
 - kanævejfoski
-    *Kommando til ildens ophør, Avertissement,
-    *NÆste stilling,
-    *VEJ til næste stilling,
-    *FOrmation,
-    *Sikring og støtte,
-    *Klarmeldinger,
-    *Iværksættelse.
+    * Kommando til ildens ophør, Avertissement,
+    * NÆste stilling,
+    * VEJ til næste stilling,
+    * FOrmation,
+    * Sikring og støtte,
+    * Klarmeldinger,
+    * Iværksættelse.
 
 
 ### Ordbog
