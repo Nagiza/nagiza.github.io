@@ -1,9 +1,10 @@
 # TTDK Håndbog
 
-## Hvorfor en 'håndbog'
-Grunden til at bruge 'specielle' ord, have strikse definationer for disse ord og kontrolleret brug af radio, er for at minimere forvirring og give TTDK et sæt værktøjer til at være effektive krigere.
 
-### Korrekt radiobrug
+## Hvorfor en 'håndbog'
+Grunden til en håndbog er at hvis bruge 'specielle' ord, har strikse definationer for disse ord og kontrolleret brug af dem, er med til at minimere forvirring og give TTDK et sæt værktøjer til at være effektive krigere.
+
+### 1. Korrekt radiobrug
 Korte og prævise beskeder er vigtig
 
 En radio samtaler starter med den er kalder op gør det klart hvem der skal lytte og hvem der snakker.
@@ -20,7 +21,7 @@ Sande radio meddelser skal slutte med "Slut"
 
 Radio meddelser hvor der ønskes svar skal slutte med "Skifter"
 
-### Håndtegn
+### 2. Håndtegn
 Formål med lydløst kommunikation er at kunne videregive information i situationer, hvor der enten er for stor distance mellem soldater eller at fjenden er for tæt på til anden kommunikation.
 Der vil ikke bliver gået i detaljer om de enkelte håndtegn, dog er der beskrevet to håndtegn.
 Udover dem så vil der blive opstilt guidelines for god
@@ -34,7 +35,7 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
 
 
 
-### Forkortelser:
+### 3. Forkortelser
 - 4 b'er
     * baggrund
     * bevægelse
@@ -42,11 +43,11 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
     * belysning
 
 - VAMUK
-    * Våben: Riffel: Scar-L, Pistol: FN 5-7
-    * Ammo: 4 fyldte magasiner, 2 til pistol.
-    * Materiel: 1 røggranat.
-    * Udrustning: Briller, Maske, Radio.
-    * Klarmelding: "klar" til sig selv eller bm
+    * Våben:	    Riffel: Scar-L, Pistol: FN 5-7
+    * Ammo:	    4 fyldte magasiner, 2 til pistol.
+    * Materiel:	    1 røggranat.
+    * Udrustning:   Briller, Maske, Radio.
+    * Klarmelding:  "klar" til sig selv eller bm
 
 - kanævejfoski
     * Kommando til ildens ophør, Avertissement,
@@ -58,8 +59,7 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
     * Iværksættelse.
 
 
-### Ordbog
-
+### 4. Ordbog
 Indsigt: har set fjenden.
 
 Føling: akut indsigt hvor ild påkræves.
@@ -75,7 +75,7 @@ Støt: forbliv stationær, skyde mod fjenden, også selvom der ikke er indsigt.
 Tryk: som støt, men i bevægelse (som regl mod fjenden)
 
 
-### adfærd der skal trænes
+### 5. Adfærd der skal trænes
 Genladning i diverse positioner: stående, på knæ, liggende.
 
 Reaktion efter nedkæmpet fjende.
@@ -86,7 +86,7 @@ Standard planer/taktisk bevægelse.
 1. Fremrykning
 2.
 
-### Andet
+### 6. Andet
 Egne forkortelser:
 
 #### GAKK
