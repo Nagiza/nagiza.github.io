@@ -61,19 +61,19 @@ Start lydløs kommunikation: se på modtageren og vink let, helst med åben hån
 
 
 ### 4. Ordbog
-Indsigt: har set fjenden.
+**Indsigt** : har set fjenden.
 
-Føling: akut indsigt hvor ild påkræves.
+**Føling** : akut indsigt hvor ild påkræves.
 
-Kontakt: er i ildkamp
+**Kontakt** : er i ildkamp
 
-Sikre: hold øje med område og vær klar til at åbne ild.
+**Sikre** : hold øje med område og vær klar til at åbne ild.
 
-Dæk: forbliv stationær, sikre mod fjenden.
+**Dæk** : forbliv stationær, sikre mod fjenden.
 
-Støt: forbliv stationær, skyde mod fjenden, også selvom der ikke er indsigt.
+**Støt** : forbliv stationær, skyde mod fjenden, også selvom der ikke er indsigt.
 
-Tryk: som støt, men i bevægelse (som regl mod fjenden)
+**Tryk** : som støt, men i bevægelse (som regl mod fjenden)
 
 
 ### 5. Adfærd der skal trænes
