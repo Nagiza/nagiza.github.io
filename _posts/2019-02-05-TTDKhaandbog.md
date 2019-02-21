@@ -97,3 +97,39 @@ Inden første spil:
 - Kalde navne.
 - Klar melding.
 
+### Roderi som måske skal inplementeres 
+
+
+#### 4 B’er
+De 4 B’er anvendes i forbindelse med vurdering af terræn som vi skal sløre/skjule os i. De 4 B’er er altså ting vi skal tage med i vores overvejelser for valg af stilling/placering i terræn.
+
+
+B = Bevoksning / Bebyggelse (det vil betyde for dig som soldat at du kontrollere du ligger i et terræn som giver dig sløring, dette kan være bevoksning, altså træer, buske, græs m.m.)
+
+
+B = Belysning (belysning er noget vi som soldater skal undgå, det betyder specifikt at vi ikke ligger os i solen / solstrålen, men altså holder os i skyggen / mørket da dette giver den bedste sløring). Dette er blandt andet fordi vores tøj er mørkegrønt og vi ikke er interesseret i at solen genskinner på evt. metalgenstande m.m.
+
+
+B = Baggrund (baggrunden betyder det som er bag ved dig som soldat, hver enten du står, knæler eller ligger ned – du skal altså sørge for at der er en baggrund som rækker over din egen ”højde”, altså sørger for du ikke er i ”silhuet” og derfor er noget svære at erkende).
+
+
+B = Bevægelse (Bevægelse er vigtigt i forbindelse med sløring, sideværts bevægelser er meget nemmere at se / erkende end ”frem og tilbage + op og ned” bevægelser, de sideværts bevægelser, også kaldet for ”flanke march” er det som øjet fanger først).
+
+
+#### FSDOT:
+FSDOT bruges i forbindelse med valg af stilling i terræn. Det er således med til at give så de bedste forudsætninger, da huskeordet, får os igennem de vigtigste elementer i valg at stilling.
+
+
+F= Frit skud (Dvs du som soldat skal have frit skud mod dit mål / fjende, der må altså ikke være noget imellem dit gevær (der hvor dit gevær peger hen) og så dit mål – dette gælder ting som, træer, grene, buske, mure osv. – er der ting foran din gevær så vil din kugle / projektil ændre bane og gøre at du ikke rammer).
+
+
+S = Sløring (Sløring i denne forbindelse, er som i de 4 B’er som du lærte om i sidste huskeord)
+
+
+D = Dækning (Dækning dækker over begrebet ”beskyttelse” dvs den dækning du er bag ved, skal være en beskyttelse som kan stande fjendes kugler/projektiler – altså det fungere som en skudsikker vest). I vores verden arbejder vi med en dækningstykkelse på 120cm fast jord/sand som skal ligge rundt om dig som en mur.
+
+
+O = Observation (observation betyder det område du skal kunne observere i, altså det område som du kan kigge ud i fra den stilling som du ligger i med dit gevær – således at vi kan dække et større område med blot en eller få soldater).
+
+
+T = Til og afgangsveje (Dette betyder at du skal kunne komme frem i skjul og dækning (til og fra din stilling) uden at blive erkendt af fjenden)
